@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f0efe9"/>
+  <circle cx="400" cy="420" r="150" fill="#e6e7de"/>
+  <path d="M400 290c-39 0-70 31-70 70v44l-98 66v235h336V470l-98-66v-44c0-39-31-70-70-70Zm-37 114v-44a37 37 0 1 1 74 0v44Z" fill="#cbd0c2"/>
+  <text x="400" y="790" text-anchor="middle" fill="#62695b" font-family="Arial,sans-serif" font-size="25" letter-spacing="6">COMMON THREAD</text>
+  <text x="400" y="830" text-anchor="middle" fill="#92968b" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">GOOD CLOTHES · GOOD DAYS</text>
+</svg>
